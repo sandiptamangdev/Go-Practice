@@ -1,12 +1,16 @@
-**Perfect. Let's adapt this for Go.**
-
-Go has different syntax but same concepts. I'll give you the **Go version of the 25 questions** - same learning structure, Go syntax.
-
----
-
 # **GO RECALL DRILL — 25 QUESTIONS**
 
 Complete these in order. Each question forces one Go syntax concept.
+
+```
+package main
+import "fmt"
+
+func main() {
+	//codes goes here
+}
+
+```
 
 ## **1. Variables (Q1–Q5)**
 
